@@ -1,0 +1,27 @@
+#panneau
+{
+background-color:purple;  /* Fond gris */
+height:135px;
+width:375px;
+
+/* Centrer horizontalement */
+margin-left:auto; 
+margin-right:auto;
+
+/*Centrer verticalement*/
+margin-top:182.5px;
+
+/*Arondit les angles*/
+border-radius:5px;
+
+/*Ajoute la police que nous avions intégrer*/
+font-family:Chrono;
+
+/*Définit la couleur et la taille du texte */
+color:white;
+font-size:100px;
+
+/*Aligne le texte au centre*/
+text-align:center;
+}
+
